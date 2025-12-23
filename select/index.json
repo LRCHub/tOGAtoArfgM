@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "すうぃーとサプライズ",
+  "base_artist": "ぶいすぽっ！",
+  "createdAt": "2025-12-23T11:29:08.229109Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すうぃーとサプライズ",
+      "artist": "ぶいすぽっ!",
+      "has_synced": false,
+      "path": "select/pl_01_すうぃーとサプライズ_ぶいすぽっ!.txt"
+    }
+  ]
+}
